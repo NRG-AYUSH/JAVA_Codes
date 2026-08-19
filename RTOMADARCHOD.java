@@ -28,7 +28,7 @@ class LicenseService {
 
     }
 }
-public class RTOMADARCHOD{
+public class RTO{
     public static void main(String args[]){
         LicenseService service = new LicenseService();
         try{
